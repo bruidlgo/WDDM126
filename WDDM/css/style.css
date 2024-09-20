@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e3f2d3;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #a46d3a;
+    text-align: center;
+  }
+  
+  p {
+    font-family: 'Montserrat', sans-serif;
+    color: #232222;
+    line-height: 1.6;
+    padding: 0 20px;
+  }
+
