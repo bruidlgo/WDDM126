@@ -44,4 +44,11 @@ h1 {
     line-height: 1.6;
     padding: 0 20px;
   }
-
+  
+.my-image {
+  max-width: 300px;          /* Set a max width for the image */
+  height: auto;              /* Maintain aspect ratio */
+  margin-top: -100px; 
+ margin-bottom: px;
+margin-left: 500px; /* Space above the image */
+}
